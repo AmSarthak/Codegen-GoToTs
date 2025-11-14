@@ -1,17 +1,29 @@
-A tiny weekend project that parses Go structs and generates TypeScript interfaces automatically.
-Zero dependencies. Pure Go.
-Useful when your backend structs should match frontend TS models without copying manually.
+Go Struct → TypeScript Interfaces + REST API Backend
 
-🚀 Features
+✅ 1. Code Generator
 
-🔍 Parses Go structs using go/ast
+Automatically parses Go structs using go/ast and generates matching TypeScript interfaces used by the frontend.
 
-🔄 Converts Go types → TypeScript types using simple mapping rules
+✅ 2. REST API Backend (Go)
 
-📄 Generates .ts files with interfaces (not classes)
+A small API that serves inventory data (fake 60-server dataset), supports:
 
-🧩 Supports:
+Filtering (e.g., GPU model)
+http://localhost:8080/getServerByGPU?gpu=NVIDIA
 
-basic types: string, int, float64, bool
+Pagination
+http://localhost:8080/getAIServers?limit=20
 
-slices: []string, []int, etc.
+Utility endpoints for inventory queries
+
+✅ 3. Fake Inventory Data
+
+A seeded JSON dataset that simulates servers, CPU/GPU models, manufacturers, etc.
+
+Stored in:
+
+backend/data/inventory.json
+
+✅ 4. Upcoming
+
+React and Typescript based UI for inventory management.
