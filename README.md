@@ -12,6 +12,7 @@ Filtering (e.g., GPU model)
 /getServerByGPU?gpu=NVIDIA
 
 Pagination
+
 /getAIServers?limit=20
 
 Utility endpoints for inventory queries
