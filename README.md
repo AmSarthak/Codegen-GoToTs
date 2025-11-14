@@ -9,10 +9,10 @@ Automatically parses Go structs using go/ast and generates matching TypeScript i
 A small API that serves inventory data (fake 60-server dataset), supports:
 
 Filtering (e.g., GPU model)
-http://localhost:8080/getServerByGPU?gpu=NVIDIA
+/getServerByGPU?gpu=NVIDIA
 
 Pagination
-http://localhost:8080/getAIServers?limit=20
+/getAIServers?limit=20
 
 Utility endpoints for inventory queries
 
