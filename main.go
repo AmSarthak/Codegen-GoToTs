@@ -30,7 +30,7 @@ func toTSType(expr ast.Expr) string {
 
 func main() {
 	fset := token.NewFileSet()
-	file, _ := parser.ParseFile(fset, "models/models.go", nil, parser.ParseComments)
+	file, _ := parser.ParseFile(fset, "backend/models/DataModel.go", nil, parser.ParseComments)
 
 	var output strings.Builder
 

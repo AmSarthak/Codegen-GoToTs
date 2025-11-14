@@ -1,0 +1,695 @@
+[
+  {
+    "id": "baad8811-bd56-4149-9eaf-ad63b584df61",
+    "serverType": "Rack",
+    "manufacturer": "HP",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 64,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "b2d718ca-6bf5-4b2d-b16d-bbeccf45a89f",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 64,
+    "gpus": []
+  },
+  {
+    "id": "208862cf-3eb7-4a43-8477-4f9fc4d1474a",
+    "serverType": "Tower",
+    "manufacturer": "Supermicro",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 512,
+    "gpus": []
+  },
+  {
+    "id": "9b789b78-48c4-4c6e-aaf4-8eefc9506822",
+    "serverType": "Blade",
+    "manufacturer": "HP",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 64,
+    "gpus": []
+  },
+  {
+    "id": "4b8fa40e-e9fa-4ed8-86ca-55b203523447",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 512,
+    "gpus": [
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "34ef2710-591b-4945-91ac-aa71bb829dd1",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 64,
+    "gpus": [
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "97fe9aff-0778-4391-9b00-10900ed515dd",
+    "serverType": "Tower",
+    "manufacturer": "Lenovo",
+    "modelNo": "C480",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA V100",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "67d0892c-3e4e-4b91-81ce-728399098583",
+    "serverType": "Tower",
+    "manufacturer": "Supermicro",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 128,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "6ff0cace-94fd-47f5-89f8-938279faa2c0",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 64,
+    "gpus": [
+      "NVIDIA A100",
+      "AMD MI100",
+      "NVIDIA T4",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "21211db7-0bd6-47cf-86db-6a0260798fe4",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "XR500",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 128,
+    "gpus": []
+  },
+  {
+    "id": "06054c94-dfad-4ade-b0b3-56300b12f29c",
+    "serverType": "Blade",
+    "manufacturer": "HP",
+    "modelNo": "C480",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": []
+  },
+  {
+    "id": "28ed69f6-910e-4800-ad8f-9d3117061ef4",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "G7",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 256,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA A100",
+      "NVIDIA H100",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "91bf0545-fd0a-4518-a0e2-6d175f344955",
+    "serverType": "Rack",
+    "manufacturer": "HP",
+    "modelNo": "M200",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 64,
+    "gpus": [
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "6ebbfa50-8fc3-4ad5-9bbb-9fe65d6fe5ae",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "XR500",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 64,
+    "gpus": [
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "1287d68b-a993-4553-9d98-e43cb9a9cffe",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "UltraX",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA H100",
+      "AMD MI100",
+      "NVIDIA T4",
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "d7f5ceb4-ccba-4c21-bb37-bc2543b7d1f3",
+    "serverType": "Tower",
+    "manufacturer": "Lenovo",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA T4",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "4a74326e-99d7-42c9-bf09-5f7fab6955be",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "UltraX",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA T4",
+      "NVIDIA H100",
+      "AMD MI100",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "dbeeaf19-c41d-4888-935f-a1a1644e058e",
+    "serverType": "Rack",
+    "manufacturer": "Lenovo",
+    "modelNo": "G7",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "a2af5823-990b-4760-945a-b6ed6fbf1fd8",
+    "serverType": "Tower",
+    "manufacturer": "Lenovo",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA H100",
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "d207a0a1-388d-4dcd-b521-01d53afd8574",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "C480",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "a9d50bd2-c6cc-4147-99d4-b6014054f687",
+    "serverType": "Blade",
+    "manufacturer": "Dell",
+    "modelNo": "UltraX",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 64,
+    "gpus": [
+      "NVIDIA A100",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "7853d5ef-2b0e-45ca-b6c3-fa019118f7df",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "M200",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 64,
+    "gpus": []
+  },
+  {
+    "id": "c8030b93-4275-4cce-b409-ca335a4f06e2",
+    "serverType": "Rack",
+    "manufacturer": "HP",
+    "modelNo": "XR500",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 64,
+    "gpus": [
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "e90a9584-5a8c-4a6c-ad18-8f22257a8759",
+    "serverType": "Blade",
+    "manufacturer": "Dell",
+    "modelNo": "UltraX",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 256,
+    "gpus": []
+  },
+  {
+    "id": "f7779ba8-0786-4cd3-a302-dd70f4b80acd",
+    "serverType": "Rack",
+    "manufacturer": "Dell",
+    "modelNo": "XR500",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 512,
+    "gpus": []
+  },
+  {
+    "id": "1450b5ae-7f54-4ad9-8136-135f7e4f3513",
+    "serverType": "Blade",
+    "manufacturer": "Dell",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 64,
+    "gpus": []
+  },
+  {
+    "id": "8891fada-9f7d-4980-87a4-43c1b2025c60",
+    "serverType": "Rack",
+    "manufacturer": "HP",
+    "modelNo": "UltraX",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 256,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "5d08f36d-d5e4-485a-a74f-a34460b9d5df",
+    "serverType": "Tower",
+    "manufacturer": "Cisco",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA V100",
+      "NVIDIA A100",
+      "AMD MI100",
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "5d6bb1d3-88c0-4302-958d-f692311e8284",
+    "serverType": "Blade",
+    "manufacturer": "Cisco",
+    "modelNo": "XR500",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 256,
+    "gpus": []
+  },
+  {
+    "id": "780293f7-0e9b-4b7f-8219-515510459fe3",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA T4",
+      "AMD MI100",
+      "NVIDIA H100",
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "ecc33a62-a5fd-4856-8c89-46abddacdd40",
+    "serverType": "Rack",
+    "manufacturer": "Dell",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 512,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA T4",
+      "NVIDIA V100",
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "368b3fb8-e57c-4bd7-a9c1-9a6da8642b76",
+    "serverType": "Blade",
+    "manufacturer": "Cisco",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 128,
+    "gpus": []
+  },
+  {
+    "id": "9d9c2fdd-ce16-4827-bcb5-36460436868d",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "M200",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 512,
+    "gpus": []
+  },
+  {
+    "id": "4d74379b-6dd3-48b6-beb9-21d8c32096e5",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA H100",
+      "NVIDIA V100",
+      "NVIDIA A100",
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "84361259-f4ef-4ea7-9eac-83cf18f2c513",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA V100",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "bf6e803b-b447-47da-b425-9326719ed4b6",
+    "serverType": "Rack",
+    "manufacturer": "Supermicro",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA A100",
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "9d356a57-1c14-447d-b837-599e1b45d15c",
+    "serverType": "Tower",
+    "manufacturer": "Supermicro",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": [
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "8cc804df-194d-40e3-a29c-d69ae21507bd",
+    "serverType": "Blade",
+    "manufacturer": "Cisco",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA T4",
+      "NVIDIA A100",
+      "NVIDIA V100",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "7d6e70e8-67fc-419d-8841-e28949880019",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "UltraX",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA A100",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "ae5c7c41-a96d-4652-abed-c91b3527a414",
+    "serverType": "Blade",
+    "manufacturer": "Supermicro",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 128,
+    "gpus": [
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "d059a45b-43e2-4d89-815c-9c105dd3107c",
+    "serverType": "Rack",
+    "manufacturer": "Lenovo",
+    "modelNo": "G7",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "a9bd10ce-84ab-4157-93a3-89a805fa29c1",
+    "serverType": "Blade",
+    "manufacturer": "Cisco",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "232ca524-10f4-4531-a22c-e98fee2c8e6c",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 512,
+    "gpus": []
+  },
+  {
+    "id": "ed62b097-eae2-4c7b-9e43-eeba8fbcbecb",
+    "serverType": "Tower",
+    "manufacturer": "Lenovo",
+    "modelNo": "M200",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA T4",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "2120e472-1248-4afe-87b4-c36860d24038",
+    "serverType": "Tower",
+    "manufacturer": "HP",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA H100",
+      "NVIDIA A100",
+      "NVIDIA T4",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "f05ab827-44b6-408e-bc09-7be0c3542fae",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA V100",
+      "NVIDIA H100",
+      "NVIDIA A100",
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "25fe7f99-a875-4b72-bd07-b69fdfe979af",
+    "serverType": "Blade",
+    "manufacturer": "Lenovo",
+    "modelNo": "XR500",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 512,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA H100",
+      "NVIDIA V100",
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "b3e921a1-8d35-43fa-a9ce-3c194ac35d85",
+    "serverType": "Rack",
+    "manufacturer": "Supermicro",
+    "modelNo": "C480",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 64,
+    "gpus": []
+  },
+  {
+    "id": "0a8796d1-61cd-4785-9889-44c6d2317dab",
+    "serverType": "Rack",
+    "manufacturer": "Lenovo",
+    "modelNo": "C480",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA A100",
+      "AMD MI100",
+      "NVIDIA H100",
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "1a30cb6b-f889-459d-999d-a78031f4e08d",
+    "serverType": "Tower",
+    "manufacturer": "Lenovo",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA T4",
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "5ac9f070-cd08-432c-8173-ae3263abb5f9",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "UltraX",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA V100",
+      "AMD MI100"
+    ]
+  },
+  {
+    "id": "ebcd06c1-7c80-4900-88f7-78259946fe40",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "M200",
+    "cpuModel": "EPYC 7351",
+    "cpuMemory": 64,
+    "gpus": [
+      "NVIDIA A100",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "d0d5fcae-578c-4f7a-9e51-88a869ea73bb",
+    "serverType": "Tower",
+    "manufacturer": "Dell",
+    "modelNo": "G7",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 256,
+    "gpus": [
+      "AMD MI100",
+      "NVIDIA H100",
+      "NVIDIA T4",
+      "NVIDIA V100"
+    ]
+  },
+  {
+    "id": "a2032eb9-5f15-4302-8c34-3d0989d6d0f6",
+    "serverType": "Blade",
+    "manufacturer": "Lenovo",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Gold 6230",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "de893f63-950b-49e2-bf1c-433507d688dc",
+    "serverType": "Tower",
+    "manufacturer": "Supermicro",
+    "modelNo": "UltraX",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "04fbbb92-fc63-4d88-a57e-d9ccb147b145",
+    "serverType": "Blade",
+    "manufacturer": "Lenovo",
+    "modelNo": "XR500",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA A100",
+      "NVIDIA T4"
+    ]
+  },
+  {
+    "id": "52454ffc-1f3c-47e3-84fd-32fef7f0965c",
+    "serverType": "Blade",
+    "manufacturer": "Dell",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 512,
+    "gpus": [
+      "NVIDIA H100"
+    ]
+  },
+  {
+    "id": "b1a595b3-b172-49e7-88d3-91a991226a49",
+    "serverType": "Blade",
+    "manufacturer": "HP",
+    "modelNo": "G7",
+    "cpuModel": "Xeon Platinum 8280",
+    "cpuMemory": 256,
+    "gpus": [
+      "NVIDIA T4",
+      "NVIDIA H100",
+      "NVIDIA V100",
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "3d496836-a7fe-47bd-ba3b-500c6434b2c9",
+    "serverType": "Rack",
+    "manufacturer": "Cisco",
+    "modelNo": "C480",
+    "cpuModel": "EPYC 7502P",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA A100"
+    ]
+  },
+  {
+    "id": "d25cc968-600f-4cd0-86c4-d6ed6fefe2ab",
+    "serverType": "Rack",
+    "manufacturer": "Dell",
+    "modelNo": "M200",
+    "cpuModel": "Xeon Silver 4214",
+    "cpuMemory": 128,
+    "gpus": [
+      "NVIDIA T4",
+      "NVIDIA V100"
+    ]
+  }
+]
